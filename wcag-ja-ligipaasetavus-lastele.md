@@ -52,3 +52,5 @@ Kuigi WCAG pole spetsiaalselt lastele suunatud, aitab selle põhimõtete rakenda
 - **Motoorse puudega laps** võib vajada suuremaid puudutusalasid ja lihtsustatud žeste.
 
 Kui WCAG-i kombineerida **kaasava disaini** ja **universaalse õppimise disaini (UDL)** põhimõtetega, saab luua digivahendeid, mis toetavad laste **iseseisvat kasutust**, **kaasatust** ja **enesekindlust**, sõltumata nende erivajadustest.
+
+[WCAG standard asub siin.](https://www.w3.org/WAI/standards-guidelines/wcag/)
