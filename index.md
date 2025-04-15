@@ -1,5 +1,3 @@
-# Tere tulemast!
-
 See leht on loodud arendajatele ja disaineritele, kes soovivad luua digilahendusi erivajadustega lastele.
 
 💡 Eesmärk:
