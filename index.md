@@ -1,5 +1,6 @@
 ---
 layout: home
+title: null
 ---
 
 # Kuidas luua digilahendusi erivajadustega lastele?
