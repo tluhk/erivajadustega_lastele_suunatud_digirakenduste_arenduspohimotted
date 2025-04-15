@@ -4,8 +4,6 @@ title: Kohandatud WCAG lastele
 nav_order: 2
 ---
 
-Veebisisu ligipääsetavuse juhised (WCAG) on ülemaailmselt tunnustatud standardite kogum, mille on välja töötanud W3C eesmärgiga muuta digisisu kättesaadavaks puuetega inimestele. Need juhised on eriti väärtuslikud, kui luuakse digitaalseid rakendusi erivajadustega lastele, tagades, et nad saavad sisuga suhelda viisil, mis vastab nende võimetele ja õppimisstiilile.
-
 # Kokkuvõte: WCAG laste erivajaduste jaoks
 
 **Veebisisu ligipääsetavuse juhised (WCAG)** on ülemaailmselt tunnustatud standardite kogum, mille on välja töötanud W3C eesmärgiga muuta digisisu kättesaadavaks puuetega inimestele. Need juhised on eriti väärtuslikud, kui luuakse digitaalseid rakendusi **erivajadustega lastele**, tagades, et nad saavad sisuga suhelda viisil, mis vastab nende võimetele ja õppimisstiilile.
