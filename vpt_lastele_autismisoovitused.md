@@ -1,3 +1,10 @@
+---
+layout: default
+title: Kohandatud WCAG lastele
+nav_order: 3
+---
+
+
 ## Soovitused visuaalsete programmeerimisvahendite ligipääsetavaks ja kasutajasõbralikuks kujundamiseks **autismispektrihäirega** laste jaoks
 | **Teema** | **Soovitus** | **Kirjeldus** |
 |-----------|--------------|---------------|
