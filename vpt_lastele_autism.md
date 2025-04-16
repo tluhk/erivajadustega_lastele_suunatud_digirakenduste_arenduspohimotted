@@ -1,6 +1,6 @@
 ---
-title: Visual Programming Design Tips
-nav_order: 3
+title: Soovitused visuaalsete programmeerimisvahendite kujundamiseks
+nav_order: 4
 ---
 
 <h1>Soovitused visuaalsete programmeerimisvahendite ligipääsetavaks ja kasutajasõbralikuks kujundamiseks autismispektrihäirega laste jaoks</h1>
