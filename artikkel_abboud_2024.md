@@ -1,8 +1,12 @@
 ---
-title: "Abboud et al (2024) – UX-soovitused autismiga lastele"
+layout: default
+title: "UX-soovitused autismiga lastele - Abboud et al (2024) "
 parent: "Artiklid"
-nav_order: 1
+nav_order: 5
 ---
+
+title: Erinevad tööriistad ja ressursid
+nav_order: 4
 
 # Abboud et al. (2024) – UX-soovitused autismiga lastele
 
