@@ -6,9 +6,6 @@ nav_order: 5
 
 # Abboud et al. (2024) – UX-soovitused autismiga lastele
 
-**Viide:** Abboud, D., Aly, M. E. A., & Eldein Galal Eldein, M. M. K. (2024). *Exploratory Study on UX Design Barriers: Enhancing User Experience for Children with High Functioned Autism Spectrum Disorder on Educational Websites*. *International Design Journal*, 14(6), 475–487.  
-**Link:** https://doi.org/10.xxxx/IDJ.2024.475
-
 ## Eesmärk
 
 Artikkel uurib, millised UX-disaini takistused raskendavad kõrge funktsioneerimise tasemega autismiga laste (HF-ASD) jaoks hariduslike veebilehtede kasutamist ning pakub teaduspõhiseid, praktikas rakendatavaid disainilahendusi.
@@ -74,6 +71,6 @@ Abboud et al. (2024) rõhutavad, et haridusveebid peavad olema mitte ainult funk
 
 ## Allikas
 
-Artikkel on avaldatud avatud litsentsi (CC BY 4.0) alusel. Originaalversiooni saab lugeda:
-https://yourlinktoarticle.com (asenda tegeliku DOI või lingiga)
+**Viide:** Abboud, D., Aly, M. E. A., & Eldein Galal Eldein, M. M. K. (2024). *Exploratory Study on UX Design Barriers: Enhancing User Experience for Children with High Functioned Autism Spectrum Disorder on Educational Websites*. *International Design Journal*, 14(6), 475–487.  
+**Link:** https://doi.org/10.xxxx/IDJ.2024.475
 
