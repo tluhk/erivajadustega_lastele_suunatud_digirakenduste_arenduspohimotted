@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "UX-soovitused autismiga lastele - Abboud et al (2024) "
-parent: "Artiklid"
 nav_order: 5
 ---
 
