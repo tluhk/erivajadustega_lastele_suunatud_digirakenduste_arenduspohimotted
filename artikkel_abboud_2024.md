@@ -5,9 +5,6 @@ parent: "Artiklid"
 nav_order: 5
 ---
 
-title: Erinevad tööriistad ja ressursid
-nav_order: 4
-
 # Abboud et al. (2024) – UX-soovitused autismiga lastele
 
 **Viide:** Abboud, D., Aly, M. E. A., & Eldein Galal Eldein, M. M. K. (2024). *Exploratory Study on UX Design Barriers: Enhancing User Experience for Children with High Functioned Autism Spectrum Disorder on Educational Websites*. *International Design Journal*, 14(6), 475–487.  
