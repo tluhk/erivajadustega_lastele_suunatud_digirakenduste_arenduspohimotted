@@ -2,7 +2,7 @@
 layout: default
 title: "Visuaalsete tööriistade ligipääsetav disain autismispektriga lastele - Zubair et al (2021)"
 parent: "Artiklid"
-nav_order: 6
+nav_order: 1
 ---
 
 # Zubair et al. (2021) – Visuaalsete programmeerimisvahendite ligipääsetav disain ASC-lastele
