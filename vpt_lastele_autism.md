@@ -1,6 +1,6 @@
 ---
 title: Soovitused visuaalsete programmeerimisvahendite kujundamiseks
-nav_order: 4
+nav_order: 3
 ---
 
 # Soovitused visuaalsete programmeerimisvahendite ligipääsetavaks ja kasutajasõbralikuks kujundamiseks autismispektrihäirega laste jaoks
