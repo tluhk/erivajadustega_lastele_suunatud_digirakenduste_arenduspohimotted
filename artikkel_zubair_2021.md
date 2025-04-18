@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Zubair et al (2021) – Visuaalsete tööriistade ligipääsetav disain ASC-lastele"
+title: "Visuaalsete tööriistade ligipääsetav disain autismispektriga lastele - Zubair et al (2021)"
 nav_order: 6
 ---
 
