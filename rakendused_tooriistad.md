@@ -38,14 +38,15 @@ Alljärgnev on kombineeritud ja ajakohastatud valik tööriistu, mis aitavad are
 
 ## 1. Ligipääsetavuse kontroll ja kohandamine
 
-| Tööriist | Kirjeldus |
-|---------|-----------|
-| [Pa11y](https://pa11y.org/) | Avatud lähtekoodiga tööriist, mis võimaldab automaatset WCAG testimist. Sobib pidevaks testimiseks CI/CD keskkonnas. |
-| [axe DevTools](https://www.deque.com/axe/devtools/) | Laiendus, mis toob välja WCAG rikkumised koos konteksti ja parandussoovitustega. Toetab laste rakendustes ligipääsetavusvigade ennetamist. |
-| [WAVE](https://wave.webaim.org/) | Visuaalne tagasiside ligipääsetavuse kohta (nt kontrastid, alternatiivtekstide puudumine). Lihtne kasutada ka ilma tehnilise taustata. |
-| [Accessibility Insights](https://accessibilityinsights.io/) | Microsofti tööriist, sobib kasutajavoo järkjärgulise testimiseks. |
-| [Color Contrast Analyzer](https://www.tpgi.com/color-contrast-checker/) | Abiks, kui kujunduses kasutatakse palju ikoonide ja taustade kombinatsioone. |
-| [Google Lighthouse – Accessibility](https://developer.chrome.com/docs/lighthouse/accessibility/scoring) | Chrome’i sisseehitatud tööriist ligipääsetavuse hindamiseks. Pakub automaatseid soovitusi ja ligipääsetavuse skoori. Hea alus WCAG vastavuse esmaseks kontrolliks. |
+| **Tööriist** | **Kirjeldus** | **Link** |
+|--------------|----------------|----------|
+| Pa11y | Avatud lähtekoodiga tööriist, mis võimaldab automaatset WCAG testimist. Sobib pidevaks testimiseks CI/CD keskkonnas. | [pa11y.org](https://pa11y.org/) |
+| axe DevTools | Laiendus, mis toob välja WCAG rikkumised koos konteksti ja parandussoovitustega. Toetab laste rakendustes ligipääsetavusvigade ennetamist. | [deque.com](https://www.deque.com/axe/devtools/) |
+| WAVE | Visuaalne tagasiside ligipääsetavuse kohta (nt kontrastid, alternatiivtekstide puudumine). Lihtne kasutada ka ilma tehnilise taustata. | [wave.webaim.org](https://wave.webaim.org/) |
+| Accessibility Insights | Microsofti tööriist, sobib kasutajavoo järkjärgulise testimiseks. | [accessibilityinsights.io](https://accessibilityinsights.io/) |
+| Color Contrast Analyzer | Kontrollib teksti ja tausta kontrastsust vastavalt WCAG nõuetele. | [tpgi.com](https://www.tpgi.com/color-contrast-checker/) |
+| Google Lighthouse – Accessibility | Chrome’i sisseehitatud tööriist ligipääsetavuse hindamiseks. Pakub automaatseid soovitusi ja skoori. Hea alus WCAG vastavuse esmaseks kontrolliks. | [developer.chrome.com](https://developer.chrome.com/docs/lighthouse/accessibility/scoring) |
+
 
 
 ## 2. Kommunikatsiooni ja sisu lihtsustamise tööriistad
