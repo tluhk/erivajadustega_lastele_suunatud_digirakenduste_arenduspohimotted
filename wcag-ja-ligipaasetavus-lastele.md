@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kohandatud WCAG lastele
-nav_order: 2
+nav_order: 3
 ---
 
 # Kokkuvõte: WCAG laste erivajaduste jaoks
