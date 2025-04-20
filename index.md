@@ -15,21 +15,21 @@ Fookuses on praktilised ja kaasavad lahendused, mis toetuvad teadusartiklitele, 
 ## Artiklid
 
 Kokkuvõtted valitud teadusartiklitest, mis pakuvad suuniseid ligipääsetava ja arendava kasutajaliidese loomiseks.  
-[Artiklid](artiklid)
+[Artiklid](artiklid.md)
 
 ---
 
 ## Disainipõhimõtted
 
 Soovitused, kuidas kujundada rakendust, mis arvestab erinevaid kognitiivseid, sensoorseid ja kommunikatiivseid vajadusi.  
-[Disainipõhimõtted](kasutuspohimotted)
+[Disainipõhimõtted](kasutuspohimotted.md)
 
 ---
 
 ## Kohandatud WCAG lastele
 
 WCAG-põhimõtete selgitus erivajadustega laste kontekstis. Praktilised näited ja tõlgendused.  
-[Kohandatud WCAG](kohandatud-wcag)
+[Kohandatud WCAG](kohandatud-wcag.md)
 
 ---
 
