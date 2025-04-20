@@ -1,6 +1,6 @@
 ---
-title: "Tööriistad ja platvormid"
-nav_order: 7
+title: "Tööriistad ja platvormid - nimekiri"
+nav_order: 6
 ---
 # Tööriistad ja platvormid erivajadustega lastele mõeldud rakenduste disainiks
 
