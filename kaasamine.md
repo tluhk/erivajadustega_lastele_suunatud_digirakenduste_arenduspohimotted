@@ -1,6 +1,6 @@
 ---
 title: "Kasutajate ja spetsialistide kaasamine"
-nav_order: 5
+nav_order: 7
 ---
 
 # Kasutajate ja spetsialistide kaasamine
