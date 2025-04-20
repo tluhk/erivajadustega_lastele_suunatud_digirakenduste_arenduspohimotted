@@ -1,9 +1,4 @@
 
----
-title: "Kuidas luua digilahendusi erivajadustega lastele?"
-nav_order: 1
----
-
 # Kuidas luua digilahendusi erivajadustega lastele?
 
 See leht koondab teaduspõhiseid soovitusi, tööriistu ja disainipõhimõtteid, mis aitavad arendajatel ja disaineritel luua digirakendusi, mis on sobilikud ja kasulikud erivajadustega lastele.
@@ -12,7 +7,7 @@ Fookuses on praktilised ja kaasavad lahendused, mis toetuvad teadusartiklitele, 
 
 ---
 
-## Artiklid
+## [Artiklid](artiklid.md)
 
 Kokkuvõtted valitud teadusartiklitest, mis pakuvad suuniseid ligipääsetava ja arendava kasutajaliidese loomiseks.  
 [Artiklid](artiklid.md)
