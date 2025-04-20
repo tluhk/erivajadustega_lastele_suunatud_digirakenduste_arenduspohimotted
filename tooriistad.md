@@ -2,81 +2,154 @@
 title: "Tööriistad ja platvormid"
 nav_order: 7
 ---
-
 # Tööriistad ja platvormid erivajadustega lastele mõeldud rakenduste disainiks
 
-Alljärgnevad tööriistad aitavad arendajatel ja disaineritel luua digirakendusi, mis on sobilikud erivajadustega lastele. Fookus on ligipääsetavusel, sensoorse ja kognitiivse koormuse arvestamisel ning kommunikatsiooni lihtsustamisel.
+Alljärgnev on kombineeritud ja ajakohastatud valik tööriistu, mis aitavad arendajatel ja disaineritel luua digirakendusi, mis on sobilikud erivajadustega lastele. Eelistatud on avatud lähtekoodiga, tasuta ja/või praktikas terapeutilises kontekstis kasutusel olevad lahendused.
 
 ---
 
 ## 1. Ligipääsetavuse kontroll ja kohandamine
 
-### [WAVE + WAVE for Children](https://wave.webaim.org/)
-- Klassikaline WCAG testija, mida saab täiendada oma kohandatud reeglitega, arvestades laste vajadusi (nt visuaalne segadus, ikoonikonfliktid).
+### [Pa11y](https://pa11y.org/)
+- Avatud lähtekoodiga tööriist, mis võimaldab automaatset WCAG testimist
+- Sobib pidevaks testimiseks CI/CD keskkonnas
 
-### [Accessibility Insights + Custom Heuristics](https://accessibilityinsights.io/)
-- Võimaldab lisada lisakriteeriume, nt testi: „Kas on ainult üks ülesanne korraga?”, „Kas pilt ja tekst on koos?“
+### [axe DevTools](https://www.deque.com/axe/devtools/)
+- Laiendus, mis toob välja WCAG rikkumised koos konteksti ja parandussoovitustega
+- Toetab laste rakendustes ligipääsetavusvigade ennetamist
 
-### [Google Lighthouse – Accessibility audit](https://developer.chrome.com/docs/lighthouse/accessibility/)
-- Hea üldiseks kontrolliks, kuid tuleks kasutada ainult koos lapse vaate simulatsiooniga (nt väiksemad fondid, lihtne keel).
+### [WAVE](https://wave.webaim.org/)
+- Visuaalne tagasiside ligipääsetavuse kohta (nt kontrastid, alternatiivtekstide puudumine)
+- Lihtne kasutada ka ilma tehnilise taustata
 
+### [Accessibility Insights](https://accessibilityinsights.io/)
+- Microsofti tööriist, sobib kasutajavoo järkjärgulise testimiseks
+
+### [Color Contrast Analyzer](https://www.tpgi.com/color-contrast-checker/)
+- Abiks, kui kujunduses kasutatakse palju ikoonide ja taustade kombinatsioone
+
+### [Google Lighthouse – Accessibility](https://developer.chrome.com/docs/lighthouse/accessibility/scoring)
+- Chrome’i sisseehitatud tööriist ligipääsetavuse hindamiseks.
+- Pakub automaatseid soovitusi ja ligipääsetavuse skoori.
+- Hea alus WCAG vastavuse esmaseks kontrolliks.
 ---
 
-## 2. Kommunikatsiooni ja piktogrammide tööriistad
 
-### [Pictoselector](https://www.pictoselector.eu/)
-- Tasuta Windowsi ja Maci rakendus piktogrammide loomiseks ja printimiseks.
-- Sobib suhtlusraamatute, ekraanivihjete ja lihtsustatud sisu visuaalide loomiseks.
+
+## 2. Kommunikatsiooni ja sisu lihtsustamise tööriistad
 
 ### [ARASAAC](https://www.arasaac.org/)
-- Avatud lähtekoodiga sümbolite ja lihtlausete kogu.
-- Võimaldab luua visuaalseid struktuure tegevuste, tundide ja juhendite jaoks.
+- Rahvusvaheliselt tuntud sümbolikogu alternatiivseks kommunikatsiooniks.
+- Sisaldab üle 12 000 piktogrammi, mida saab kasutada suhtlusrakendustes ja visuaalse toe materjalides.
+- Sobib suhtlustahvlite, tegevuskaartide ja juhendmaterjalide loomiseks.
 
----
-
-## 3. Sensoorse ja motoorse ligipääsu testimine
-
-### [Switch Access (Android Accessibility Suite)](https://support.google.com/accessibility/android/answer/6122836)
-- Võimaldab testida rakenduse kasutamist ilma puutetundlikku ekraani kasutamata (lülititega, klaviatuuriga).
-
-### [GazePointer (Windows)](https://sourceforge.net/projects/gazepointer/)
-- Silmajälgimise simulaator, et testida, kas rakenduse elemente saab juhtida pilguga.
-
----
-
-## 4. Kasutajate kaasamine ja lihtkeele hindamine
-
-### [Sõnaklahv](https://sonaklahv.ee/)
-- Aitab hinnata ja kohandada eestikeelset teksti, et see oleks arusaadav ka madalama keeleoskusega kasutajale.
-
-### [Keeleabi (EKI)](https://keeleabi.eki.ee/)
-- Sobib tekstide lühendamiseks, lihtsustamiseks ja kontrolliks.
+### [Pictoselector](https://www.pictoselector.eu/)
+- Tasuta piktogrammide loomisvahend suhtlusrakenduste või ekraaniviidete tarbeks
 
 ### [Boardmaker Online](https://goboardmaker.com/)
-- Kommunikatsiooni- ja õppematerjalide loomiseks kasutatav tööriist, mida kasutatakse laialdaselt eripedagoogikas (tasuline, kuid võimalik testperiood).
+- Standard haridusasutustes ja teraapiakeskustes visuaalsete õppematerjalide koostamiseks
 
----
+### [Widgit Online](https://widgitonline.com/)
+- Sarnane Boardmakerile, fookus kergesti loetaval sõnal + pildil
 
-## 5. Visuaalide ja ikoonide allikad
+### [Sõnaklahv](https://sonaklahv.ee/)
+- Eesti keele lihtsustamise tööriist, mis hindab keelekasutust ja aitab sisu kohandada
+
+### [Keeleabi (EKI)](https://keeleabi.eki.ee/)
+- Õigekeelsuse ja lihtlausestuse kontroll eestikeelses sisus
+
+## 3. Sensoorse ja alternatiivse juhtimise testimiseks
+
+### [Switch Access (Android Accessibility Suite)](https://support.google.com/accessibility/android/answer/6122836)
+- Võimaldab testida rakendust ilma puutetundliku ekraanita (lülitite ja klaviatuuriga)
+
+### [GazePointer](https://sourceforge.net/projects/gazepointer/)
+- Simuleerib pilguga juhtimist, et testida, kas UI on navigeeritav silmadega
+
+### [Tobii Eye Tracker (UX analüüsiks)](https://www.tobii.com/)
+- Professionaalne tööriist silmajälgimise analüüsiks laste testimisel
+
+### [VoiceOver (iOS)](https://support.apple.com/guide/iphone/turn-on-and-practice-voiceover-iph3e2e415f/ios)
+- iOS-i sisseehitatud ekraanilugeja.
+- Võimaldab testida kasutajaliidese navigeeritavust ja tekstide arusaadavust.
+
+### [TalkBack (Android)](https://support.google.com/accessibility/android/answer/6283677)
+- Androidi ekraanilugeja.
+- Sobib rakenduse testimiseks olukorras, kus kasutaja ei saa visuaalset tuge kasutada.
+
+## 4. Visuaalid, ikoonid ja kujunduselementide allikad
 
 ### [OpenMoji](https://openmoji.org/)
-- Kõrge kontrastsusega avatud emojid ja pildid. Sobivad hästi õpi- ja suhtlusrakendustesse.
+- Avatud emojide kogu, sobilik suure kontrastiga visuaalide loomiseks
 
-### [Noun Project – Disability & Kids](https://thenounproject.com/)
-- Spetsiifiline kollektsioon puuetega seotud ikoone, mis sobivad rakenduste visuaalseks lihtsustamiseks.
+### [Noun Project – Accessibility & Kids](https://thenounproject.com/)
+- Lai valik ikoone, sh ligipääsetavust ja lapsi puudutavad kategooriad
 
----
+### [CAST UDL Guidelines](https://udlguidelines.cast.org/)
+- Universaalse õppe disaini printsiibid (sisuloome juhised visuaalse mitmekesisuse jaoks)
 
-## 6. Multimeedia lihtsustatud tööriistad
+## 5. Multimeedia ja interaktiivne sisu
 
 ### [Book Creator](https://bookcreator.com/)
-- Võimaldab luua lihtsustatud interaktiivseid raamatuid (nt järjepidevuse, korduse, visuaalse toe jaoks).
+- Lastele suunatud visuaalsete lugude ja harjutuste loomiseks
 
 ### [Voki](https://www.voki.com/)
-- Häälega avatari tööriist, mille abil saab luua turvalise ja lapsele mõistetava sisu.
+- Anima-avatari tööriist häälega sisu loomiseks
+
+### [Pictello](https://www.assistiveware.com/products/pictello)
+- Suhtluslugude ja sotsiaalsete juttude koostamine fotode ja häälega
+
+### [CoughDrop](https://www.coughdrop.com/)
+- Pilvepõhine AAC platvorm. Võimaldab luua, jagada ja kohandada suhtluslahendusi
+
+### [Proloquo2Go](https://www.assistiveware.com/products/proloquo2go)
+- 	iOS-i põhine alternatiivne suhtlusrakendus – sobib viitamiseks disaini ja UX-lahenduste planeerimisel
+
+## 6. Üldised kasulikud tööriistad arenduse ja disaini toetuseks
+
+### [Figma](https://www.figma.com/)
+- Prototüüpide ja liidestega testimiseks, võimaldab kergesti jagada lapsevanema või terapeudiga
+
+### [Balsamiq](https://balsamiq.com/)
+- Madala detailsusega UI skeemide loomiseks varases faasis
+
+### [Miro](https://miro.com/)
+- Koostööplatvorm disainiprotsessi, persona loomise ja kasutajateekondade kaardistamiseks
+
+### [UserTesting / Hotjar (ettevaatlikult)](https://www.usertesting.com/, https://www.hotjar.com/)
+- Suunatud tagasiside ja interaktsioonide jälgimine (väldi isikuandmeid, kui kasutatakse lastega!)
+
+### [Canva for Education](https://www.canva.com/education/)
+- Lihtsustatud visuaalne disainikeskkond.
+- Sobib koostöös õpetajatega visuaalide loomiseks.
+
+### [Boardmaker by Tobii Dynavox](https://www.tobiidynavox.com/)
+- Sümbolil põhinevate suhtlusliideste (AAC) loomiseks.
+- Sisaldab PCS-sümbolite kogu ja on laialt kasutatud eripedagoogikas.
+
+### [Pictello](https://www.assistiveware.com/products/pictello)
+- Visuaalsete juhiste ja isikupärastatud õpetuslugude loomiseks.
+- Toetab struktureeritud õpet ja alternatiivset kommunikatsiooni.
+
+## 7. Liikumispõhiste rakenduste eeskujud
+
+### [PhysiApp](https://www.physiapp.com/)
+- Harjutuste edastamiseks videopõhiselt.
+- Sobib kasutajaliideste modelleerimiseks liikumispõhistes ja füsioteraapial põhinevates rakendustes.
+
+### [MoveSpring](https://movespring.com/)
+- Aktiivsuse jälgimise tööriist, millel on visuaalselt motiveeriv ja kaasav liides.
+- Sobib eeskujuks liikumistegevuste ja sammupõhise UX-i disainimisel.
+
+## 8. Disainiraamistikud ja mõttekaardid
+
+### [Microsoft Inclusive Design Toolkit](https://inclusive.microsoft.design/)
+- Empaatiakaardid, kasutajaprofiilide ja barjääride kaardistamine.
+- Aitab mõista, milliste funktsioonide või keskkonnatingimuste tõttu võib rakendus kasutajale raskesti ligipääsetav olla.
+- Väga hea alus kaasava disaini planeerimiseks.
 
 ---
 
 ## Kokkuvõte
 
-Disainides rakendusi erivajadustega lastele, tuleb kasutada tööriistu, mis võimaldavad arvestada kognitiivse, sensoorse ja kommunikatiivse eripäraga. Siin loetletud tööriistad toetavad just selliste rakenduste loomist: selged, kohandatavad, visuaalselt toetatud ja ligipääsetavad igale lapsele.
+Erivajadustega lastele suunatud rakenduste loomisel tuleb toetuda spetsiifilistele tööriistadele, mis võimaldavad arvestada kognitiivsete, sensoorsete ja kommunikatiivsete vajadustega. Eelistada tuleks avatud, paindlikke ja praktikas järele proovitud vahendeid, mis sobivad kasutamiseks koos terapeudi, lapsevanema ja lapse endaga.
