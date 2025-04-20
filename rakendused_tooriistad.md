@@ -1,6 +1,6 @@
 ---
-title: "Tööriistad ja platvormid"
-nav_order: 8
+title: "Tööriistad ja platvormid - tabeli kujul"
+nav_order: 5
 ---
 
 
