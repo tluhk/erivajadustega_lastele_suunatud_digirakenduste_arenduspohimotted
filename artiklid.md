@@ -6,20 +6,14 @@ has_children: true
 
 # Teadusartiklite kokkuvõtted arendajale
 
-Siit leiad valitud teadusartiklite põhjal koostatud praktilised kokkuvõtted, mis on suunatud arendajatele ja disaineritele, kes loovad digitaalseid rakendusi erivajadustega lastele.
+Siit leiad erivajadustega lastele disaiimisele keskenduvate teadusartiklite põhjal koostatud praktilised kokkuvõtted, mis on suunatud arendajatele ja disaineritele, kes loovad digitaalseid rakendusi erivajadustega lastele.
 
-Iga kokkuvõte:
-- põhineb usaldusväärsel teadusallikal,
-- sisaldab ainult artikli enda sisu,
-- on suunatud kasutatavuse, ligipääsetavuse ja UX-efektiivsuse parandamisele,
-- on kirjutatud lihtsas, arendajakeskses keeles.
+### Iga kokkuvõte on suunatud kasutatavuse, ligipääsetavuse ja UX-efektiivsuse parandamisele ja on eestikeelne.
 
----
 
 ## Kuidas kasutada?
 
 - Vali vasakult menüüst sobiv teema või autor.
-- Artiklid on järjestatud navigeerimismenüü `nav_order` alusel.
 - Kui töötad uue projekti kallal, soovitame alustada Abboud et al. (2024), Kamaruzaman et al. (2016) või Vieira et al. (2019) kokkuvõtetest.
 
 ---
