@@ -14,21 +14,21 @@ Kokkuvõtted valitud teadusartiklitest, mis pakuvad suuniseid ligipääsetava ja
 
 ---
 
-## Disainipõhimõtted
+## [Disainipõhimõtted](kasutuspohimotted.md)
 
 Soovitused, kuidas kujundada rakendust, mis arvestab erinevaid kognitiivseid, sensoorseid ja kommunikatiivseid vajadusi.  
 [Disainipõhimõtted](kasutuspohimotted.md)
 
 ---
 
-## Kohandatud WCAG lastele
+## [Kohandatud WCAG](kwcag-ja-ligipaasetavus-lastele.md)
 
 WCAG-põhimõtete selgitus erivajadustega laste kontekstis. Praktilised näited ja tõlgendused.  
 [Kohandatud WCAG](kwcag-ja-ligipaasetavus-lastele.md)
 
 ---
 
-## Tööriistad ja platvormid
+## [Tööriistad ja platvormid](rakendused_tooriistad.md)
 
 Kahe erineva esitlusviisiga ülevaade tööriistadest:  
 [Tabelina](rakendused_tooriistad.md)  
@@ -36,21 +36,21 @@ Kahe erineva esitlusviisiga ülevaade tööriistadest:
 
 ---
 
-## Kasutajate ja spetsialistide kaasamine
+## [Kasutajate ja spetsialistide kaasamine](kaasamine.md)
 
 Kuidas kaasata lapsevanemaid, õpetajaid, terapeute ja lapsi rakenduse arendamisse.  
 [Kasutajate ja spetsialistide kaasamine](kaasamine.md)
 
 ---
 
-## Testimine ja tagasiside
+## [Testimine](testimine.md)
 
 Testimise juhised ja meetodid, mis sobivad just erivajadustega lastega töötamiseks.  
 [Testimine](testimine.md)
 
 ---
 
-## Panustamine
+## [Panusta projekti](panustamine.md)
 
 Kui soovid täiendada sisu või lisada uusi tööriistu ja artikleid, vaata juhiseid panustamise lehel.  
 [Panusta projekti](panustamine.md)
