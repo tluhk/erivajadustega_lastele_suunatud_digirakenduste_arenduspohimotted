@@ -29,36 +29,36 @@ Soovitused, kuidas kujundada rakendust, mis arvestab erinevaid kognitiivseid, se
 ## Kohandatud WCAG lastele
 
 WCAG-põhimõtete selgitus erivajadustega laste kontekstis. Praktilised näited ja tõlgendused.  
-[Kohandatud WCAG](kohandatud-wcag.md)
+[Kohandatud WCAG](kwcag-ja-ligipaasetavus-lastele.md)
 
 ---
 
 ## Tööriistad ja platvormid
 
 Kahe erineva esitlusviisiga ülevaade tööriistadest:  
-[Tabelina](tooriistad-tabel)  
-[Nimekirjana](tooriistad-nimekiri)
+[Tabelina](rakendused_tooriistad.md)  
+[Nimekirjana](tooriistad.md)
 
 ---
 
 ## Kasutajate ja spetsialistide kaasamine
 
 Kuidas kaasata lapsevanemaid, õpetajaid, terapeute ja lapsi rakenduse arendamisse.  
-[Kasutajate ja spetsialistide kaasamine](kasutajate-kaasamine)
+[Kasutajate ja spetsialistide kaasamine](kaasamine.md)
 
 ---
 
 ## Testimine ja tagasiside
 
 Testimise juhised ja meetodid, mis sobivad just erivajadustega lastega töötamiseks.  
-[Testimine](testimine-erivajadustega-lastega)
+[Testimine](testimine.md)
 
 ---
 
 ## Panustamine
 
 Kui soovid täiendada sisu või lisada uusi tööriistu ja artikleid, vaata juhiseid panustamise lehel.  
-[Panusta projekti](panustamine)
+[Panusta projekti](panustamine.md)
 
 ---
 
