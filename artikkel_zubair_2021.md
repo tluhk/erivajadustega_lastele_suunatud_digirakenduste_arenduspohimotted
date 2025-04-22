@@ -5,73 +5,138 @@ parent: "Artiklid"
 nav_order: 1
 ---
 
-# Zubair et al. (2021) – Visuaalsete programmeerimisvahendite ligipääsetav disain ASC-lastele
+# Visuaalsete programmeerimisvahendite ligipääsetav disain ASC-lastele - Zubair et al. (2021)
 
 
-## Eesmärk
+## Mobiiliseadmete tugi ja kasutajakogemuse soovitused 
 
-Artikkel esitab põhjaliku soovituste kogumi, kuidas arendada visuaalseid programmeerimisvahendeid (VPTs), mis on kognitiivselt ja sensoorse koormuse mõttes ligipääsetavad autismispektrihäirega (ASC) lastele, eriti neile, kellel esineb ka õppimisraskusi.
+### Mobiiliseadmete tugi
 
-## Praktilised soovitused disaineritele ja arendajatele
+- Veendu, et VPT (virtuaalne õppimist toetav tööriist) töötaks nutitelefonides ja tahvelarvutites.
+- Kasutajaliides peab sobima ka lastele, kellel on motoorikahäired (nt täpsed ja juhuslikke puudutusi vältivad puuteelemendid).
 
-### 1. Seadme sobivus
+### Puuteekraanil navigeerimine
 
-- Tööriistad peavad olema kasutatavad tahvelarvutitel ja nutiseadmetel.
-- Eelistada puuteekraani tuge, sest see on intuitiivsem kui hiir.
-- Vältida topeltklõpse ja keerulisi sisestusviise.
+- Nupud ja valikud peavad reageerima õigesti ning mitte tegema valikuid kogemata.
+- Disain peab toetama peenmotoorika raskustega laste kasutust.
 
-### 2. Kasutaja kaasamine
+### Kasutaja kaasamine
 
-- Kujunda sisu laste isiklike huvide põhjal (nt rongid, loomad, kosmos).
-- Näita tuntud ja meeldivat visuaali kohe avalehel, et tekitada motivatsiooni.
-- Lase kasutajatel valida sisu, mida teised sarnased kasutajad eelistasid – ainult siis, kui laps pole uue info suhtes tõrjuv.
+- Lisa sisu, mis huvitab autismispektrihäirega lapsi (nt transporditeemad, kosmos, loomad jne).
+- Kasuta huvipakkuvaid pilte ja tegelasi ka avaekraanidel ja lukuekraanidel.
+- Paku populaarseid soovitusi passiivsetele kasutajatele, kui nad on avatud uuele infole.
+- Kasuta visuaalset või helilist märguannet, kui kasutaja on olnud tükk aega passiivne.
 
-### 3. Visuaalne infoesitus
+### Teabe esitlus ja visuaalid
 
-- Vähem teksti, rohkem ikoone ja visuaalseid sümboleid.
-- Kasuta tuttavaid sümboleid, kui võimalik.
-- Toeta igat funktsiooni visuaalselt – nupud, plokid, tööriistad.
+- Kasuta ikoonide ja sümbolitega toetatud teabe esitlust (nt nuppudel, siltidel, tööriistadel jne).
+- Eelista olemasolevaid lihtsaid ja arusaadavaid ikoonikogumeid.
+- Kasuta selget ja hästi loetavat kirjatüüpi, nt Arial.
 
-### 4. Helide kasutamine
+### Keel ja sõnastus
 
-- Helid peavad olema vaikimisi välja lülitatud.
-- Kasutajal peab olema kontroll helitugevuse ja taasesituse üle.
-- Väldi järske ja tugevaid helisid (nt sireenid, plahvatused).
+- Kasuta lihtsat, üheselt mõistetavat ja järjepidevat keelt.
+- Vältida tuleb tehnilist žargooni, lühendeid ja keerukaid termineid.
+- Kasutatud sõnastus peab olema tuttav ja arusaadav autismispektrihäirega (ASC) lastele.
 
-### 5. Valikute piiramine
+### Helide kasutamine
 
-- Piira saadaolevaid tegelasi, taustu ja tööriistu – nt ainult 5 valikut korraga.
-- Eemalda võimalus alustada täiesti tühjast projektist, kui kasutaja vajab tuge.
-- Ära takista ligipääsu sisule, mida laps armastab, isegi kui ta keskendub ainult sellele.
+- Kõik helid peaksid olema vaikimisi välja lülitatud ning kasutajal peab olema võimalus neid soovi korral sisse lülitada.
+- Kasutajale peab olema kättesaadav helitugevuse reguleerimise võimalus.
+- Vältida tuleb tugevaid, häirivaid ja ootamatuid helisid (nt plahvatused, sireenid jms), välja arvatud juhul, kui kasutaja on need teadlikult valinud.
 
-### 6. Struktureerimine ja scaffolding
+### Piirangud ja valikute lihtsustamine
 
-- Paku projektimalle (nt lihtne lugu, mäng, animatsioon).
-- Juhenda kasutajat samm-sammult tegelaste, tegevuste ja sisu valikul.
-- Kasuta kõrgema taseme programmeerimisplokke (nt „hüppa edasi“), kui madalama taseme skriptid on raskesti mõistetavad.
+- Meediaelementide (taustad, tegelased jms) valik peab olema piiratud ja seotud kasutaja tegevuse eesmärgiga. Näiteks "kosmoseteemalises võidusõidumängus" kuvatakse ainult kosmosega seotud taustad.
+- Programmeerimiselementide (nt plokid, tellised) valik peaks olema väike, lihtne ja sobima kasutaja oskustega. Näiteks liikumiskäske sisaldavad plokid, kui eesmärk on objektide liigutamine.
+- Kasutajaliideses peaks olema nähtaval ainult need funktsioonid, mis aitavad kasutajal oma eesmärki saavutada.
+- Tuleks piirata ligipääsu funktsioonidele, mis võivad põhjustada kinnisideelist kasutust või takistada eesmärgini jõudmist (nt "loo tühi projekt" funktsioon juhul, kui kasutaja vajab pidevat juhendamist).
+- Piiranguid tuleks rakendada eelkõige funktsioonidele, mitte meediasisule või programmeerimisvõimalustele, isegi kui kasutaja kipub kinnistuma mõne konkreetse elemendi külge.
 
-### 7. Eesmärgistatus ja eduelamus
+### Juhendavad mallid ja abistruktuur (scaffolding)
 
-- Kujunda tööriist nii, et laps saaks kiiresti tulemuse.
-- Eesmärk peab olema selge ja saavutatav – nt lihtne liikumine, lihtne animatsioon.
-- Tagasiside peab olema kohene ja arusaadav.
+- VPT peaks pakkuma erinevate projektide loomiseks visuaalseid malle (nt mängud, animatsioonid, lood).
+- Mallid peaksid suunama kasutajat samm-sammult projekti loomisel (nt tegelaste, taustade ja tegevuste valimine loo igaks osaks).
+- Mallid peaksid võimaldama kasutajal näha lõpptulemuse võimalikku versiooni.
 
-### 8. Isikupärastamine
+- Kasutajale tuleks pakkuda programmeerimiselemente erinevatel abstraktsioonitasemetel.
+  - Näiteks: algtaseme kasutajale pakutakse visuaalseid plokke „liigu x-teljel“ ja „liigu y-teljel“.
+  - Kui kasutaja ei suuda neist hüpet koostada, tuleks pakkuda kõrgema taseme plokke „hüppa edasi“ ja „hüppa tagasi“.
 
-- Loo kasutajaprofiilid, kus salvestada eelistused, raskusaste, ajalugu.
-- Kohanda liidest profiili põhjal: värvid, funktsioonid, plokid.
-- Võimalda nii automaatne kui käsitsi seadistamine (nt õpetaja või lapsevanema poolt).
+- Seal, kus kontseptsioonide mõistmine võib olla keeruline, tuleks pakkuda konkreetseid näiteid projektidest, millest õppida.
 
-### 9. Muutuste juhtimine
+- Kasutajaliideses olevate elementide kasutamiseks tuleb pakkuda sobivaid ja arusaadavaid juhiseid, võimalusel visuaalsel kujul ning ligipääsetavana ASC laste jaoks.
 
-- Teavita last eelnevalt igast muudatusest (nt kujunduse või funktsiooni muutus).
-- Väldi järske muudatusi; muuda samm-sammult ja visuaalse märguandega.
-- Hoia muudatuste ajalugu kättesaadavana (nt visuaalne jälgija „Minu areng“).
+### Isikupärastamine ja kohandamine
 
-## Kokkuvõte
+- VPT peaks võimaldama luua kasutajaprofiile, kuhu salvestatakse isiklikud eelistused ja info (nt huvid, võimekus, raskused).
+  - Profiili saab luua automaatse kasutajatestiga või sisestada andmed hooldaja kaudu käsitsi.
 
-Zubair et al. rõhutavad, et ASC-ga laste jaoks mõeldud programmeerimisvahendid peavad toetama sensoorset lihtsust, visuaalset mõistmist, selget struktureeritust ja isikupärastatud kogemust. Lihtne ja etteaimatav keskkond koos sihipärase tagasiside ja tugevate kasutajaprofiilide süsteemiga aitab suurendada kaasatust, motivatsiooni ja eduelamust.
+- Vahend peaks salvestama kasutaja tegevusajaloo (nt kui tihti kasutatakse teatud programmeerimisplokke või milliseid omadusi projektides kasutatakse).
+  - See info peaks uuenema automaatselt iga kasutuse käigus.
+
+- Kasutajaliides, funktsioonide piirangud ja programmeerimise tase peaksid muutuma vastavalt kasutajaprofiilile ja tegevusajaloole.
+  - Kui kasutaja oskused arenevad, peab ka VPT end vastavalt kohandama.
+ 
+    ### Kasutaja kohandused
+
+- VPT peab võimaldama kasutajal käsitsi määrata eelistusi, mis võivad asendada automaatse isikupärastamise tulemusi.
+  - Näiteks: kasutaja peaks saama ise valida fondi, kirjasuuruse ja värvi.
+
+### Eesmärgile suunatud disain
+
+- Kõik isikupärastamised, piirangud, visuaalsed abid ja juhendavad mallid peaksid toetama ja soodustama kasutaja eesmärkide saavutamist ilma liigsete või raskesti ligipääsetavate tegevusteta.
+
+- Mallid peaksid toetama selliste projektide loomist, mis õpetavad ASC lastele olulisi oskusi, nagu suhtlemine ja koostöö.
+
+### Muudatuste haldamine
+
+- Enne mis tahes isikupärastusest tulenevate muudatuste rakendamist tuleb kasutajat sellest teavitada.
+  - Teavitused peaksid olema lihtsad ja arusaadavad.
+
+- Muudatusi tuleb rakendada väikeste ja hallatavate sammudena, mitte korraga suuri muutusi tehes.
+
+- VPT peab pidama ajalugu kasutaja konfiguratsioonides tehtud muudatustest.
+  - See info võiks olla kasutajale visuaalselt kättesaadav kui „kasutaja teekond“.
+
+### Kasutajaliides ja navigeerimine
+
+- Kasutaja peab saama ise juhtida navigeerimist ja aega, mis kulub ühe tegevuse tegemiseks.
+  - VPT ei tohi teha automaatseid ümbersuunamisi ega määrata ajalimiite.
+
+- Tausta ja esiplaani elementide vahel tuleb alati kasutada kontrastseid värve.
+  - Näiteks programmeerimiselementide värvid peavad eristuma taustast.
+
+- Tuleks eelistada mahedaid värve ja vältida eredaid värvitoone, et mitte tekitada ASC laste puhul sensoorseid ülekoormusi.
+
+- VPT kujundus ja ülesehitus peab olema lihtne, arusaadav ja etteaimatav.
+  - Ei tohi olla ootamatuid elemente ega ebajärjekindlat navigeerimist.
+
+### Klikitavad ja interaktiivsed elemendid
+
+- Kõik klikitavad elemendid (nt ikoonid, nupud) peavad olema piisavalt suured, et neid oleks lihtne vajutada ka peenmotoorikahäiretega lastel.
+- Disain peab visuaalselt näitama, et need elemendid on interaktiivsed ja vajutatavad.
+
+### Madal latentsus
+
+- Vältimaks kasutajate frustratsiooni ja tähelepanu hajumist, peavad tegevused VPT-s toimuma kiiresti ja sujuvalt.
+- Kasutajale tuleb anda kohene tagasiside tegevuse toimumise kohta, et hoida fookust ja huvi.
+
+### Süsteemi oleku teavitused
+
+- Aeglasemate tegevuste (nt programmi kompileerimine või graafikafailide allalaadimine) korral tuleb kasutajat visuaalselt teavitada tegevuse edenemisest.
+- Näiteks laadimisindikaatorid või protsessiribad aitavad kasutajal mõista, et süsteem töötab.
+
+### Kontroll ja tegevuste taastamine
+
+- Kasutaja peab saama tähtsamaid tegevusi (nt kustutamine, muudatused) kinnitada, tagasi võtta või tühistada.
+- See võimaldab lastel julgelt katsetada ja loovalt läheneda ilma hirmuta vea tegemise ees.
+
+### Ligipääsetav dokumentatsioon
+
+- Abiinfo ja juhised peavad olema nähtavad või kergesti leitavad.
+- Juhendmaterjal peaks keskenduma konkreetsete ülesannete täitmisele ja sisaldama visuaalseid või multimeedia näiteid.
+
 
 **Viide:** Zubair, M. S., Brown, D. J., Bates, M., & Hughes-Roberts, T. (2021). *Designing Accessible Visual Programming Tools for Children with Autism Spectrum Condition*.  
-**Artikli allikas:** Elsevier / Applied Sciences  
-**DOI või link:** https://link.springer.com/article/10.1007%2Fs10209-021-00842-y
+***Link:** https://link.springer.com/article/10.1007%2Fs10209-021-00842-y
