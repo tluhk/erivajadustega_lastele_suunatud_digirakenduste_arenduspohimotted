@@ -5,7 +5,7 @@ parent: "Artiklid"
 nav_order: 1
 ---
 
-# Visuaalsete programmeerimisvahendite ligipääsetav disain ASC-lastele - Zubair et al. (2021)
+# Visuaalsete programmeerimisvahendite ligipääsetav disain autismispektriga lastele - Zubair et al. (2021)
 
 
 ## Mobiiliseadmete tugi ja kasutajakogemuse soovitused 
