@@ -8,46 +8,67 @@ nav_order: 3
 
 ## Eesmärk
 
-Artikkel esitab disainiraamistiku, mis aitab kujundada rakendusi nii, et need toetaksid laste positiivseid emotsioone – rõõmu, ootusärevust ja usaldust. Uuringu eesmärk oli mõista, millised interaktiivsed disainielemendid toetavad tugevat emotsionaalset kogemust ja tõstavad kasutajate rahulolu.
+Uuring töötas välja emotsionaalse disaini raamistikku, mis aitab arendajatel luua laste rakendusi (vanusele 4–8), mis toetavad positiivseid emotsioone: rõõmu, ootust ja usaldust. Analüüsiti 72 iOS-i rakendust Austraaliast ja Hiinast, et seostada disainiprintsiipide rakendamist kasutajakogemusega.
 
-## Peamised soovitused disaineritele ja arendajatele
+## Disainiprintsiibid emotsionaalse kogemuse loomiseks:
 
-### 1. Rõõm
+### Interaktiivsus
 
-#### Interaktiivsus
-- Rakendus peaks sisaldama aktiivseid tegevusi, mis vastavad lapse puudutusele, lohistamisele või häälkäsklustele.
-- Kasuta animatsioone, vibratsiooni, helisid ja visuaalseid efekte, mis tekitavad huvi ja ergutavad osalema.
+- Rakendus peab võimaldama aktiivset osalust, mitte ainult sisu passiivset tarbimist.
+- Kasuta liigutusi, helisid, pilte ja sümboleid, et toetada lapse arengut.
+- Stseenid ja tegevused peaksid looma tähenduslikke seoseid lapse elukogemustega.
 
-#### Mängustamine
-- Rakendusse võib lisada tasemeid, punkte, kleebiseid, avatari kohandamist.
-- Preemiad ja eduelamused tugevdavad emotsionaalset sidet rakendusega ja toetavad õpimotivatsiooni.
+### Mängulisus
 
-### 2. Ootusärevus
+- Kasuta punkte, tasemeid, auhindu, avatari kohandamist ja teekonna kontrollimist.
+- Toeta lapse sisemist motivatsiooni mänguliste, arenevate ülesannetega.
 
-#### Selged eesmärgid
-- Iga tegevus peaks olema arusaadav ja suunama lapse selge eesmärgini.
-- Kasuta visuaalseid märke, animatsioone ja helilisi juhiseid, et toetada lapse ootust järgmise sammu suhtes.
+### Selged eesmärgid
 
-#### Vahetu tagasiside
-- Rakendus peab andma kohest ja selget tagasisidet, nt „Tubli!“, heli, hüpik või animatsioon.
-- Tagasiside peab olema ka korrigeeriv ja juhendav – nt soovitus proovida uuesti või uus küsimus.
+- Näita igal hetkel, mida kasutaja saab teha või mis järgmiseks juhtub.
+- Selge siht suurendab keskendumist ja vähendab segadust.
 
-### 3. Usaldus
+### Tagasiside
 
-#### Fookuse hoidmine
-- Vältida reklaame, ootamatuid hüpikuid ja ebavajalikke helisid.
-- Kasuta rahulikku kujundust, kus ükski element ei konkureeri lapse tähelepanuga.
+- Tagasiside peab olema kohene, arusaadav ja motiveeriv.
+- Kasuta positiivset keelt, animatsioone, helisid ja lihtsat julgustust.
 
-#### Toetavad sammud (scaffolding)
-- Raskemad ülesanded tuleb jagada osadeks ja juhendada samm-sammult.
-- Näiteks: häälkäsklused, visuaalsed viited, avatari või tegelase toel toimuvad selgitused.
-- Loo lapse ja vanema ühiskasutuse võimalus (nt lapsevanema režiim või ühislugemine).
+### Keskendumine
 
-## Praktilised rakendused
+- Vältida tuleb segavaid elemente, nagu reklaamid, pop-upid ja taustamuusika.
+- Liides peab toetama keskendumist ja võimaldama vooseisundit.
 
-- Kõige paremini hinnatud lasteäpid kasutavad järjepidevat interaktiivsust ja animatsiooni, mis reageerib lapse tegevusele.
-- Rakendused, mis sisaldavad kohandatavat sisu ja võimaldavad lastel valida oma tee, tekitavad tugevama emotsionaalse sideme.
-- Lihtne kujundus ja pidev juhendamine tugevdavad turvatunnet ning toetavad lapse süvenemist.
+### Juhendamine
+
+- Pakku tuge juhiste, viipede, visuaalsete ja heliliste abivahendite kaudu.
+- Võimalda ka iseseisvat avastamist ja vanema-kaaslase kaasamist.
+
+## Emotsionaalse mõju seosed
+
+- Emotsionaalne disain mõjutab otseselt lapse kogetavaid positiivseid emotsioone.
+- Positiivsed emotsioonid mõjutavad lapse hinnangut rakendusele.
+- Tulemuseks on kõrgem kasutajarahulolu ja suurem eduvõimalus.
+
+## Praktilised soovitused arendajale ja disainerile
+
+- Testi, kas rakendus toetab aktiivset osalust ja lapse valikuid.
+- Kujunda ülesanded lihtsateks ja järk-järguliseks.
+- Kasuta piktogramme, animatsioone ja häält tekstist arusaamise toetamiseks.
+- Ära eelda lugemisoskust – kasuta mitmemodaalseid lahendusi.
+- Kasuta selget, kohest ja arusaadavat tagasisidet.
+- Toeta lapse eneseväljendust ja kaasamist.
+
+## Hindamisskaala (võib kasutada arendusprotsessis)
+
+| Disainiprintsiip   | Küsimus                                                                 |
+|--------------------|--------------------------------------------------------------------------|
+| Eesmärgi selgus    | Kas tegevus algab selgelt määratletud eesmärgiga?                        |
+| Tagasiside         | Kas tagasiside on kohene, arusaadav ja emotsionaalselt toetav?           |
+| Interaktiivsus     | Kas laps saab aktiivselt osaleda ja mõjutada toimuvat?                   |
+| Mängulisus         | Kas kasutatakse mängelemente: tasemed, punktid, kohandused?              |
+| Fookus             | Kas keskkond on segamatu ja toetab keskendumist?                         |
+| Juhendamine        | Kas rakendus pakub tuge, vihjeid ja lihtsat navigeerimist?               |
+
 
 ## Kokkuvõte
 
