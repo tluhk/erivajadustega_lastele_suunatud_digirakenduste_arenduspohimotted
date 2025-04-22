@@ -78,7 +78,7 @@ nav_order: 1
 - Kasutajaliides, funktsioonide piirangud ja programmeerimise tase peaksid muutuma vastavalt kasutajaprofiilile ja tegevusajaloole.
   - Kui kasutaja oskused arenevad, peab ka VPT end vastavalt kohandama.
  
-    ### Kasutaja kohandused
+ ### Kasutaja kohandused
 
 - VPT peab võimaldama kasutajal käsitsi määrata eelistusi, mis võivad asendada automaatse isikupärastamise tulemusi.
   - Näiteks: kasutaja peaks saama ise valida fondi, kirjasuuruse ja värvi.
