@@ -4,7 +4,7 @@ parent: "Artiklid"
 nav_order: 4
 ---
 
-# Bratu et al. (2024) – Tehnoloogiapõhine pedagoogika ja motivatsioon kuulmispuudega õpilastel
+# Tehnoloogiapõhine pedagoogika ja motivatsioon kuulmispuudega õpilastel - Bratu et al. (2024) 
 
 ## Eesmärk
 
@@ -46,6 +46,12 @@ Artikkel käsitleb tehnoloogiapõhiste õpetamismeetodite mõju kuulmispuudega k
 - Paku kindlat juhendamist ja järelevalvet, et tagada turvaline osalus.
 - Disaini tööriistad nii, et need sobiksid väheste tehniliste oskustega õppijatele.
 - Võimalda projektide personaliseerimist vastavalt huvidele ja võimekusele.
+- Kujunda isikupärastatud ja tempokohandatavad õpikogemused.
+- Toeta visuaalset ja mängulist õppimist, et vähendada verbaalse info domineerimist.
+- Kaasa AR, VR ja mängupõhise õppe elemente õpiprotsessi.
+- Taga pidev õpetajate tugi ja juhendamine tehnoloogia kasutamisel.
+- Ehita platvormid, mis suurendavad õpilaste motivatsiooni ja enesekindlust.
+- Paku õppijatele võimalust töötada omas tempos ja korrata vajadusel raskemaid osi.
 
 ### Õpetajate roll
 
