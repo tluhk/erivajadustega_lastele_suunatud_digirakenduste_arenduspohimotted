@@ -48,4 +48,4 @@ Florian et al. rõhutavad, et erivajadustega laste vajadusi ei saa lahendada pel
 
 ## Allikas
 
-Florian, L., Rouse, M., Black‐Hawkins, K., & Jull, S. (2006). *Achievement and inclusion in schools*. Routledge. (Viidatud artikli 2. peatükk: "What names do we give to disabled children?")
+Florian, L., Rouse, M., Black‐Hawkins, K., & Jull, S. (2006). *Achievement and inclusion in schools*. Routledge.
