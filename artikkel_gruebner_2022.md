@@ -6,48 +6,43 @@ nav_order: 12
 
 # Digiplatvormid perede toetamiseks – Gruebner et al. (2022)
 
-## Fookus
+## Digiplatvormide disain lastele ja peredele erivajadustega seotud olukorras
 
-Artikkel analüüsib, kuidas digitehnoloogiad mõjutavad peresid, eriti neid, kellel on lapsi erivajadustega või krooniliste haigustega. Keskne küsimus: **millised digiplatvormid tugevdavad peresid ja millised ohustavad neid?**
+### Eesmärk: toetada teabe leidmist ja sotsiaalset tuge
+- Platvormid peavad võimaldama kiiret ja lihtsat ligipääsu usaldusväärsele, ajakohasele ja arusaadavale infole.
+- Platvormid peaksid võimaldama luua ja hoida sotsiaalset tuge, näiteks kogukondlikku suhtlust.
 
-## Arendajale ja disainerile olulised järeldused
+### Kasutatavad platvormitüübid ja disainijuhised
+- Eelistatud on platvormid, mis toetavad sotsiaalset suhtlust (nt foorumid, grupid, sõnumivahetus).
+- Veebikeskkonnad peavad olema selged, hõlpsasti navigeeritavad ja kasutama lihtsat keelt.
+- Tugi erinevatele suhtlusvormidele: tekst, pildid, videod ja audiomaterjalid peavad olema lihtsalt kasutatavad.
 
-### 1. Loo platvorme, mis tugevdavad vanema autonoomiat ja usaldust
+### Peamised kasutajakogemuse ootused
+- Teave peab olema usaldusväärne, soovitatavalt toetatud professionaalsete allikatega.
+- Otsing ja info leidmine peab olema lihtne, kiire ja arusaadav.
+- Platvormi kujundus peab olema ligipääsetav erinevatele sihtrühmadele, sealhulgas piiratud digioskustega kasutajatele.
 
-- **Pered vajavad digitaalseid tööriistu, mis tugevdavad, mitte asendavad, nende enda otsustusõigust.**
-- Tööriistad peavad olema **läbipaistvad** – vanem peab mõistma, kuidas süsteem töötab ja milliseid andmeid kogutakse.
+### Privaatsuse ja turvalisuse nõuded
+- Toeta suletud ja turvalisi kogukondi (nt kinnised grupid, turvaline registreerimine).
+- Kasutajate isikuandmete ja laste info jagamine peab olema piiratud ja turvaline.
+- Kasutajad peavad ise kontrollima, millist infot ja kellega nad jagavad.
 
-### 2. Ära kujunda süsteeme, mis tekitavad süütunnet või hirmu
+### Ligipääsetavuse ja kaasatuse põhimõtted
+- Arvesta, et osa kasutajatest on madala digipädevusega või mitte-ingliskeelsed.
+- Platvormi disain peab toetama mitmekeelsust ja olema kultuuriliselt neutraalne.
+- Visuaalne ja funktsionaalne lihtsus aitavad kaasa laiemale kättesaadavusele.
 
-- Paljud vanemad tunnevad end **digitaalsetes keskkondades hinnatuna või jälgituna**, eriti kui andmete põhjal tehakse soovitusi ilma kontekstita.
-- **Väldi „digitaalse süüdistamise“ mustreid**, kus platvorm rõhutab, et vanem „ei tee piisavalt“.
+### Tähelepanu väärinformatsioonile ja kvaliteedile
+- Väldi platvormi struktuuris ja sisus ebausaldusväärse info levikut.
+- Suuna kasutajaid usaldusväärsetele allikatele ja kontrollitud teabele.
 
-### 3. Toeta tuge ja kogukonda, mitte ainult jälgimist
-
-- Platvormid, mis võimaldavad **ühepoolset jälgimist**, ei pruugi suurendada heaolu.
-- Ehe tugi tuleb tööriistadest, mis võimaldavad **vahetut suhtlust, kogemuste jagamist ja ligipääsu professionaalidele**.
-
-### 4. Eelista lapsepõhise kasutajakogemuse disaini
-
-- Perede toetamisel tuleb rakenduses arvestada, et:
-  - sisu oleks **visuaalselt ja funktsionaalselt sobilik ka lapsele**,
-  - navigeerimine oleks **vanemale ja lapsele erineval moel ligipääsetav**,
-  - laps ei oleks **passiivne objekt** digikeskkonnas, vaid saaks osaleda turvaliselt ja sihipäraselt.
-
-### 5. Andmeturve ja eetika
-
-- Tundlikud andmed (nt terviseinfo, päevikud, videod) peavad olema:
-  - krüpteeritud,
-  - kustutatavad kasutaja poolt,
-  - jagatavad ainult selgesõnalise loaga.
-
-- Iga funktsiooni juures peab arvestama küsimust:  
-  **„Kas see tugevdab peret või teeb nad haavatavamaks?“**
-
-## Kokkuvõte
-
-Gruebner et al. rõhutavad, et peresid toetavad digiplatvormid ei ole ainult tehnoloogilised lahendused – need on **sotsiaalsed ja eetilised konstruktsioonid**. Arendajad peavad looma keskkondi, mis arvestavad perekondade haavatavust, andmekaitset ja emotsionaalset turvatunnet, pakkudes toetust, mitte hindamist.
+## Kokkuvõte: olulised praktilised põhimõtted disainis ja arenduses
+- Lihtne ja kiire ligipääs infole ja sotsiaalsele toele
+- Turvaline ja privaatsust austav keskkond
+- Mitmekeelne ja kergesti navigeeritav disain
+- Usaldusväärse ja ajakohase info kättesaadavus
+- Toetus kogukondliku suhtluse loomisele ja hoidmisele
+- Vähem tehnilisi ja keelelisi barjääre
 
 ## Allikas
-
 Gruebner, O., Mayer, S., Lorke, J., & von Reeken, C. (2022). *Digital technology and the family: the case for a digital family support system*. Journal of Public Health, 30, 1–9. https://doi.org/10.1007/s10389-022-01708-0
