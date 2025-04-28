@@ -13,12 +13,13 @@ nav_order: 5
 - Väldi vananenud kasutajaliidest ja ajale jalgu jäänud kujundusmalle – need võivad põhjustada töökindluse ja ligipääsetavuse probleeme.
 - Loo rakendused, mis töötavad iseseisvalt ja ei eelda pidevat täiskasvanu tuge.
 - Kasutajaliides peab olema lihtne ja intuitiivne, et toetada ASD laste iseseisvat kasutamist.
+- Vältida tuleb vilkuvaid, liigselt liikuvad või häirivaid efekte.
 
 ### 2. Kohandatav sisu
 
 - Rakendus peab võimaldama sisutaseme ja raskusastme reguleerimist vastavalt kasutaja vajadustele.
 - Väga oluline on võimalus muuta:
-  - esitlusviisi (heli, tekst, pilt),
+  - esitlusviisi (heli, teksti suurust ja stiili, pilte),
   - keelt,
   - reaktsioonikiirust või korduste arvu.
 
