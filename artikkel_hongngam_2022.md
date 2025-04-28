@@ -22,7 +22,6 @@ Artikkel keskendub sellele, kuidas arendada ja kasutada digitehnoloogiat, et toe
 ### 2. Kohandatav õppesüsteem
 
 - Arenda **individuaalsed õppimisplaanid**, mis arvestavad iga lapse võimekust ja vajadusi.
-- Loo võimalus õppida nii **online kui offline** keskkonnas, kuna osadel lastel ei pruugi olla stabiilset internetiühendust.
 - Paku õpetajale ja vanemale **kasutusjuhendit**, mis toetab digikeskkonna rakendamist lapsega töös.
 
 ### 3. Õppekeskkond ja liides
@@ -37,21 +36,24 @@ Artikkel keskendub sellele, kuidas arendada ja kasutada digitehnoloogiat, et toe
 - Kujunda lugude sisu, mis on seotud lapse **igapäevaeluga** ja toetab **enesekindlust ja eneseväljendust**.
 - Rakenda kujundatud sisu erinevate puuetega laste jaoks (sh autism, intellektipuue, nägemis-, kuulmis-, liikumispuue jne).
 
-### 5. Efektiivsus ja mõju
+### 5. Soovitused edasiseks arenduseks
 
-- Lihtsaraamatute tehnoloogia suurendas laste **lugemisvõimet, kõneoskust ja loo mõistmist**.
-- Õpilaste **enesekindlus ja motivatsioon õppimisel paranesid**.
-- Tehnoloogia tõi kasu mitte ainult lastele, vaid ka **lapsevanematele ja õpetajatele**, toetades pidevat õpet klassiruumis ja kodus.
-
-### 6. Soovitused edasiseks arenduseks
-
-- Looge **riiklikult kättesaadav digitaalne platvorm**, kus õpetajad ja koolid saavad kasutada loodud õppematerjale.
 - Koguge iga lapse kohta **andmeid individuaalsete vajaduste kohta**, et kohandada sisu.
 - Toetage **õppimise jälgimist**: visuaalsed edusammude näitajad, automaatne hindamine, kordusvõimalused.
 
+### 6. Tehnilised ja funktsionaalsed nõuded
+- Tarkvara peab olema kiirelt ligipääsetav ja lihtsalt kasutatav erinevates seadmetes.
+- Vajalik on turvaline sisselogimine ja isikliku andmete kaitse.
+- Rakendus peab toetama õppimist ka olukordades, kus internetiühendus puudub.
+
 ## Kokkuvõte
 
-Digitehnoloogia, mis sisaldab mitmesensoorset sisu, selget ülesehitust ja individuaalset kohandamist, osutub efektiivseks abivahendiks erivajadustega laste keeleõppes. Arendajad peaksid looma sisu, mis on ligipääsetav, juhendatud ning toetab õppimist lapse tempos ja tasemel.
+- Lihtsasti kasutatav ja ligipääsetav digitaalne õpikeskkond
+- Kohandatavus vastavalt erinevate puudeliikidega laste vajadustele
+- Multimeedia integreerimine lugemis- ja õppimisprotsessi toetamiseks
+- Toetus iseseisvale ja kaasavale õppimisele
+- Turvaline ja privaatsust austav süsteem
+- Võimalus kasutada rakendust ka ilma pideva internetiühenduseta
 
 ## Allikas
 
