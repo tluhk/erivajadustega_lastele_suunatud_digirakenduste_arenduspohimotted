@@ -5,7 +5,7 @@ nav_order: 7
 
 # Kasutajate ja spetsialistide kaasamine
 
-Digirakenduste disainimisel autistlike laste jaoks ei piisa pelgalt ligipääsetavusest – tuleb aktiivselt kaasata lapsi ja vajadusel nende toetajaid kogu disainiprotsessi vältel.  Erivajadustega lastele suunatud digilahenduste disainis on kasutajate ja valdkonna spetsialistide kaasamine kriitilise tähtsusega. Kaasamine aitab tagada, et loodav rakendus vastab sihtrühma tegelikele vajadustele ning toetab tõhusalt hariduslikke ja terapeutilisi eesmärke. Selline lähenemine toetub mitmete teadusartiklite ja teooriate soovitustele.
+Digirakenduste disainimisel erivajadustega laste jaoks ei piisa pelgalt ligipääsetavusest – tuleb aktiivselt kaasata lapsi ja vajadusel nende toetajaid kogu disainiprotsessi vältel.  Erivajadustega lastele suunatud digilahenduste disainis on kasutajate ja valdkonna spetsialistide kaasamine kriitilise tähtsusega. Kaasamine aitab tagada, et loodav rakendus vastab sihtrühma tegelikele vajadustele ning toetab tõhusalt hariduslikke ja terapeutilisi eesmärke. Selline lähenemine toetub mitmete teadusartiklite ja teooriate soovitustele.
 
 
 ### Miks kaasamine on oluline?
