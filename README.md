@@ -147,9 +147,6 @@ Disain, mis toetub lapse isiklikule kogemusele, tema arengule ja emotsionaalsele
 
 ---
 
-## Kokkuvõte
-
-Erivajadustega lastele suunatud rakenduste loomisel tuleb toetuda spetsiifilistele tööriistadele, mis võimaldavad arvestada kognitiivsete, sensoorsete ja kommunikatiivsete vajadustega. Eelistada tuleks avatud, paindlikke ja praktikas järele proovitud vahendeid, mis sobivad kasutamiseks koos terapeudi, lapsevanema ja lapse endaga.
 
 ## Artiklid
 - [Visuaalsete tööriistade ligipääsetav disain autismispektriga lastele - Zubair et al (2021)](https://tluhk.github.io/rakenduste_disain_erivajadustega_lastele/artikkel_zubair_2021.html)
@@ -165,3 +162,36 @@ Erivajadustega lastele suunatud rakenduste loomisel tuleb toetuda spetsiifiliste
 - [Erivajaduste mõistmise raamistik arendusprotsessis – Florian et al. (2006)](https://tluhk.github.io/rakenduste_disain_erivajadustega_lastele/artikkel_florian_2006.html)
 - [Digiplatvormid perede toetamiseks – Gruebner et al. (2022)](https://tluhk.github.io/rakenduste_disain_erivajadustega_lastele/artikkel_gruebner_2022.html)
 - [Digitaalne lapsevanemlus erivajadustega laste peredes – Kumaş & Yildirim (2024)](https://tluhk.github.io/rakenduste_disain_erivajadustega_lastele/artikkel_kumas_2024.html)
+
+---
+
+# Panusta projekti
+
+See GitHubi leht on loodud eesmärgiga koondada praktilisi soovitusi, tööriistu ja uurimuspõhiseid kokkuvõtteid, mis toetavad erivajadustega laste vajadusi arvestavate digilahenduste loomist. Kui soovid kaasa aidata, oled väga oodatud!
+
+## Kuidas saad aidata hoida lehte ajakohasena ja kasulikuna?
+
+### Lisa teadusartikli kokkuvõte
+- Kui tead mõnda head teadusartiklit, mis toetab kaasavat disaini või ligipääsetavust erivajadustega laste digirakendustes, lisa sellest kokkuvõte `artiklid/` kausta.
+- Kasuta sama formaati nagu olemasolevates failides.
+- 
+- Märgi kindlasti:
+  - artikli autorid ja ilmumisaasta,
+  - pealkiri kujul `# Teema – Autor (aasta)`,
+  - sisuline kokkuvõte ainult artikli põhjal (ära lisa omi tõlgendusi!),
+  - lisa allika viide lõppu.
+
+### Soovita või uuenda tööriista infot
+- Kui tead mõnda head tööriista, mis toetab ligipääsetavust, alternatiivset suhtlust, sensoorseid kohandusi või lihtsustatud sisu loomist – lisa see vastavasse sektsiooni `tooriistad.md`.
+- Kasuta selget ja neutraalset kirjeldust, sobivaid linke ning vajadusel märgi, milleks see sobib.
+
+### Esita parandus- või täiendusettepanekuid
+- Kui märkad viga, soovid täpsustada mõistet või täiendada mõnd osa, saad teha seda GitHubis pull request'iga või luues issue.
+- Kasuta võimalusel viiteid teadusartiklitele või usaldusväärsetele ligipääsetavuse allikatele.
+
+## Soovituslik stiil ja eesmärk
+- Kirjuta selgelt, neutraalselt ja praktiliselt – sihtgrupiks on arendajad ja disainerid, mitte teadlased.
+- Eesmärk on luua rakendusi, mis on **põhjendatud, läbimõeldud ja sihtrühma tegelikke vajadusi arvestavad**.
+- Iga panus, olgu väike või suur, aitab muuta digitaalmaailma kaasavamaks.
+
+## Aitäh panustamast!
