@@ -12,13 +12,14 @@ See GitHubi leht on loodud eesmärgiga koondada praktilisi soovitusi, tööriist
 ## Kuidas saad aidata hoida lehte ajakohasena ja kasulikuna?
 
 ### Lisa teadusartikli kokkuvõte
-- Kui tead mõnda head teadusartiklit, mis toetab kaasavat disaini või ligipääsetavust laste digirakendustes, lisa sellest kokkuvõte `artiklid/` kausta.
+- Kui tead mõnda head teadusartiklit, mis toetab kaasavat disaini või ligipääsetavust erivajadustega laste digirakendustes, lisa sellest kokkuvõte `artiklid/` kausta.
 - Kasuta sama formaati nagu olemasolevates failides.
+- 
 - Märgi kindlasti:
   - artikli autorid ja ilmumisaasta,
   - pealkiri kujul `# Teema – Autor (aasta)`,
   - sisuline kokkuvõte ainult artikli põhjal (ära lisa omi tõlgendusi!),
-  - allika viide lõppu.
+  - lisa allika viide lõppu.
 
 ### Soovita või uuenda tööriista infot
 - Kui tead mõnda head tööriista, mis toetab ligipääsetavust, alternatiivset suhtlust, sensoorseid kohandusi või lihtsustatud sisu loomist – lisa see vastavasse sektsiooni `tooriistad.md`.
@@ -31,7 +32,6 @@ See GitHubi leht on loodud eesmärgiga koondada praktilisi soovitusi, tööriist
 ---
 
 ## Soovituslik stiil ja eesmärk
-
 - Kirjuta selgelt, neutraalselt ja praktiliselt – sihtgrupiks on arendajad ja disainerid, mitte teadlased.
 - Eesmärk on luua rakendusi, mis on **põhjendatud, läbimõeldud ja sihtrühma tegelikke vajadusi arvestavad**.
 - Iga panus, olgu väike või suur, aitab muuta digitaalmaailma kaasavamaks.
