@@ -149,6 +149,8 @@ Disain, mis toetub lapse isiklikule kogemusele, tema arengule ja emotsionaalsele
 
 
 ## Artiklid
+Siit leiad erivajadustega lastele disainimisele keskenduvate teadusartiklite põhjal koostatud praktilised kokkuvõtted, mis on suunatud arendajatele ja disaineritele, kes loovad digitaalseid rakendusi erivajadustega lastele.
+
 - [Visuaalsete tööriistade ligipääsetav disain autismispektriga lastele - Zubair et al (2021)](https://tluhk.github.io/rakenduste_disain_erivajadustega_lastele/artikkel_zubair_2021.html)
 - [UX-soovitused autismiga lastele - Abboud et al (2024)](https://tluhk.github.io/rakenduste_disain_erivajadustega_lastele/artikkel_abboud_2024.html)
 - [Emotsionaalse kogemuse disain lasterakendustes - Chen (2022)](https://tluhk.github.io/rakenduste_disain_erivajadustega_lastele/artikkel_chen_2022.html)
