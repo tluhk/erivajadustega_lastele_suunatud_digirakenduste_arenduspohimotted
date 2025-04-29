@@ -6,9 +6,9 @@ has_children: true
 
 # Teadusartiklite kokkuvõtted arendajale
 
-Siit leiad erivajadustega lastele disaiimisele keskenduvate teadusartiklite põhjal koostatud praktilised kokkuvõtted, mis on suunatud arendajatele ja disaineritele, kes loovad digitaalseid rakendusi erivajadustega lastele.
+Siit leiad erivajadustega lastele disainimisele keskenduvate teadusartiklite põhjal koostatud praktilised kokkuvõtted, mis on suunatud arendajatele ja disaineritele, kes loovad digitaalseid rakendusi erivajadustega lastele.
 
-### Iga kokkuvõte on suunatud kasutatavuse, ligipääsetavuse ja UX-efektiivsuse parandamisele ja on eestikeelne.
+### Kokkuvõtted on suunatud kasutatavuse, ligipääsetavuse ja UX-efektiivsuse parandamisele.
 
 
 ## Kuidas kasutada?
