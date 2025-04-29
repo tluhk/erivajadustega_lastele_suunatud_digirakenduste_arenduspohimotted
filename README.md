@@ -55,9 +55,9 @@ Avataride, värvide ja tegevuste varieerimine toetab motivatsiooni.
 Disain, mis toetub lapse isiklikule kogemusele, tema arengule ja emotsionaalsele seisundile, loob keskkonna, kus tehnoloogia muutub partneriks, mitte barjääriks. Iga visuaal, iga heli ja iga liigutus peab toetama last, mitte väsitama teda. Hea rakendus ei ole mitte lihtsalt arusaadav, vaid kaasav, juhendav ja muutuv koos lapsega.
 
 
-# Tööriistad ja rakendused
+## Tööriistad ja rakendused
 
-## 1. Ligipääsetavuse kontroll ja kohandamine
+### 1. Ligipääsetavuse kontroll ja kohandamine
 
 | **Tööriist** | **Kirjeldus** | **Link** |
 |--------------|----------------|----------|
@@ -70,7 +70,7 @@ Disain, mis toetub lapse isiklikule kogemusele, tema arengule ja emotsionaalsele
 
 ---
 
-## 2. Kommunikatsiooni ja sisu lihtsustamise tööriistad
+### 2. Kommunikatsiooni ja sisu lihtsustamise tööriistad
 
 | **Tööriist** | **Kirjeldus** | **Link** |
 |--------------|----------------|----------|
@@ -83,7 +83,7 @@ Disain, mis toetub lapse isiklikule kogemusele, tema arengule ja emotsionaalsele
 
 ---
 
-## 3. Sensoorse ja alternatiivse juhtimise testimiseks
+### 3. Sensoorse ja alternatiivse juhtimise testimiseks
 
 | **Tööriist** | **Kirjeldus** | **Link** |
 |--------------|----------------|----------|
@@ -95,7 +95,7 @@ Disain, mis toetub lapse isiklikule kogemusele, tema arengule ja emotsionaalsele
 
 ---
 
-## 4. Visuaalid, ikoonid ja kujunduselementide allikad
+### 4. Visuaalid, ikoonid ja kujunduselementide allikad
 
 | **Tööriist** | **Kirjeldus** | **Link** |
 |--------------|----------------|----------|
@@ -105,7 +105,7 @@ Disain, mis toetub lapse isiklikule kogemusele, tema arengule ja emotsionaalsele
 
 ---
 
-## 5. Multimeedia ja interaktiivne sisu
+### 5. Multimeedia ja interaktiivne sisu
 
 | **Tööriist** | **Kirjeldus** | **Link** |
 |--------------|----------------|----------|
@@ -116,7 +116,7 @@ Disain, mis toetub lapse isiklikule kogemusele, tema arengule ja emotsionaalsele
 | **Proloquo2Go** | iOS-i põhine alternatiivne suhtlusrakendus – sobib viitamiseks disaini ja UX-lahenduste planeerimisel. | [assistiveware.com](https://www.assistiveware.com/products/proloquo2go) |
 
 ---
-## 6. Liikumispõhiste rakenduste eeskujud
+### 6. Liikumispõhiste rakenduste eeskujud
 
 | **Tööriist** | **Kirjeldus** | **Link** |
 |--------------|----------------|----------|
@@ -125,7 +125,7 @@ Disain, mis toetub lapse isiklikule kogemusele, tema arengule ja emotsionaalsele
 
 ---
 
-## 7. Üldised kasulikud tööriistad arenduse ja disaini toetuseks
+### 7. Üldised kasulikud tööriistad arenduse ja disaini toetuseks
 
 | **Tööriist** | **Kirjeldus** | **Link** |
 |--------------|----------------|----------|
@@ -139,7 +139,7 @@ Disain, mis toetub lapse isiklikule kogemusele, tema arengule ja emotsionaalsele
 
 ---
 
-## 8. Disainiraamistikud ja mõttekaardid
+### 8. Disainiraamistikud ja mõttekaardid
 
 | **Tööriist** | **Kirjeldus** | **Link** |
 |--------------|----------------|----------|
@@ -167,11 +167,11 @@ Siit leiad erivajadustega lastele disainimisele keskenduvate teadusartiklite põ
 
 ---
 
-# Panusta projekti
+## Panusta projekti
 
 See GitHubi leht on loodud eesmärgiga koondada praktilisi soovitusi, tööriistu ja uurimuspõhiseid kokkuvõtteid, mis toetavad erivajadustega laste vajadusi arvestavate digilahenduste loomist. Kui soovid kaasa aidata, oled väga oodatud!
 
-## Kuidas saad aidata hoida lehte ajakohasena ja kasulikuna?
+### Kuidas saad aidata hoida lehte ajakohasena ja kasulikuna?
 
 ### Lisa teadusartikli kokkuvõte
 - Kui tead mõnda head teadusartiklit, mis toetab kaasavat disaini või ligipääsetavust erivajadustega laste digirakendustes, lisa sellest kokkuvõte `artiklid/` kausta.
@@ -196,4 +196,4 @@ See GitHubi leht on loodud eesmärgiga koondada praktilisi soovitusi, tööriist
 - Eesmärk on luua rakendusi, mis on **põhjendatud, läbimõeldud ja sihtrühma tegelikke vajadusi arvestavad**.
 - Iga panus, olgu väike või suur, aitab muuta digitaalmaailma kaasavamaks.
 
-## Aitäh panustamast!
+### Aitäh panustamast!
