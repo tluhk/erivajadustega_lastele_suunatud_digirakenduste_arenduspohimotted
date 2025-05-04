@@ -147,6 +147,73 @@ Disain, mis toetub lapse isiklikule kogemusele, tema arengule ja emotsionaalsele
 
 ---
 
+# Kasutajate ja spetsialistide kaasamine
+Digirakenduste disainimisel erivajadustega laste jaoks ei piisa pelgalt ligipääsetavusest – tuleb aktiivselt kaasata lapsi ja vajadusel nende toetajaid kogu disainiprotsessi vältel. Erivajadustega lastele suunatud digilahenduste disainis on kasutajate ja valdkonna spetsialistide kaasamine kriitilise tähtsusega. Kaasamine aitab tagada, et loodav rakendus vastab sihtrühma tegelikele vajadustele ning toetab tõhusalt hariduslikke ja terapeutilisi eesmärke. Selline lähenemine toetub mitmete teadusartiklite ja teooriate soovitustele.
+
+## Miks kaasamine on oluline?
+- Lapsed ise ei pruugi osata või suuta oma vajadusi ja raskusi sõnastada – just seetõttu on oluline kaasata ka vanemad, õpetajad, terapeudid.
+- Professionaalide kogemus aitab välja tuua nüansse, mida arendajad ei pruugi märgata (nt liigne stimulatsioon, raskesti tõlgendatav ikoon).
+- Kaasav protsess suurendab kasutatavust ja usaldusväärsust, mis on eriti oluline sotsiaalsete või kognitiivsete raskustega kasutajate puhul.
+
+### Valmistumine: looge alus usaldusel
+- Suhelge hooldajate ja õpetajatega enne lapse kaasamist. Nad aitavad mõista lapse tugevusi, tundlikkust ja eelistusi.
+- Vältige traditsioonilisi küsitlusi. Autistlikel lastel võib olla keeruline verbaalselt vastata. Kasutage selle asemel vaatlusi ja tegevuspõhiseid sissejuhatusi.
+- Lapse eelvaatlus loomulikus keskkonnas (nt koolis või kodus) aitab disainimeeskonnal hinnata sobivaid töömeetodeid
+- Kaasamise tööriistad ja võtted
+- Valige tööriistad, mis võimaldavad lapse osalusel loomulikult tekkida:
+
+### Visuaalsed skeemid – pildid, ikoonid, vooskeemid
+- Madala tehnoloogiaga prototüübid – paberimängud, ehitusplokid, magnetid
+- Digitaalsed visanditööriistad – joonistusäppid, kus laps saab kujundada tegelasi või stseene
+- Rollimängud ja lugude jutustamine – toetavad empaatiat ja eneseväljendust
+- Oluline: vältige tegevusi, mis nõuavad abstraktset mõtlemist või sotsiaalset survet. Toetage lapse enesetempot ja huvipakkuvaid valdkondi.
+
+### Osalemise vormid
+- Disainiprotsessis võib laps tegutseda:
+  - Informandina – jagab oma eelistusi (nt valib ikoonid, animatsioonid)
+  - Testijana – proovib erinevaid kujunduslahendusi (nt liides, helid)
+  - Kaastöötajana – loob visuaalseid komponente või määrab stseeni järjekorra
+  - Kui lapse vahetu osalus ei ole võimalik, kaasake proksid (lapsevanem, õpetaja), kes aitavad tõlgendada lapse huve.
+
+### Järeltegevused
+- Valideerige tulemused lapse või hooldaja kaudu. Näidake arendatud prototüüipe ja koguge visuaalse või tegevuspõhise tagasiside.
+- Korrake vajadusel. Kaasamine ei ole ühekordne sündmus – kohandage kujundusi vastavalt saadud infole.
+
+### Kaasamise kokkuvõte
+Erivajadustega lastega seotud digilahenduste arenduses ei piisa ainult ligipääsetavuse kontrollist – oluline on mõista sihtrühma reaalseid vajadusi, mis ilmnevad koostöös laste ja nende ümber olevate täiskasvanutega. Kaasav arendusprotsess tagab suurema kasutatavuse, usalduse ning võimaldab arendada tõeliselt ligipääsetavaid ja mõjuvaid rakendusi.
+
+## Testimine ja tagasiside erivajadustega kasutajatega
+Testimine on oluline osa rakenduse arendustsüklist, kuid erivajadustega laste puhul peab see toimuma teadlikult ja tundlikult. Alljärgnevalt on toodud juhised ja soovitused, kuidas testida rakendust nii, et see arvestaks sihtrühma võimekuse ja piirangutega ning pakuks usaldusväärset tagasisidet.
+
+### Miks on testimine erivajadustega lastega eriline?
+- Paljud lapsed ei oska või ei saa anda verbaalset tagasisidet, seega on oluline koguda kaudset infot, näiteks jälgides nende käitumist rakenduse kasutamisel.
+- Kasutajakogemus sõltub tihti tugevalt kontekstist, näiteks sellest, kas rakendust kasutatakse üksi, koos täiskasvanuga või rühmas.
+- Tähelepanu- ja sensoorse koormuse taluvus on iga lapse puhul erinev, seetõttu tuleb jälgida ka selliseid reaktsioone nagu frustratsioon, segadus või ärevus.
+- Funktsionaalsed probleemid ilmnevad sageli ainult reaalses kasutusolukorras, mitte formaalses testikeskkonnas.
+
+### Testimise ettevalmistamine
+- Selgitage lapse individuaalsed vajadused enne testimist, suheldes vanemate või õpetajatega.
+- Valmistage ette turvaline ja stressivaba keskkond, kus laps saab testimises osaleda omas tempos.
+- Vältige kõrge survega olukordi. Testimine peab toetama lapse loomuomast tegutsemist ilma liigsete juhisteta.
+- Testimise võtted
+- Efektiivne testimine peaks sisaldama mitmekesiseid ja paindlikke lähenemisi:
+
+### Vaatlus – jälgige, kuidas laps loomulikult suhtleb rakendusega.
+- Mängu kaudu testimine – laske lapsel uurida prototüüipe ja funktsioone mänguliselt, mitte struktureeritud ülesannetega.
+- Hääletu vaatlus ja kaudne tagasiside – kui laps ei soovi verbaalselt suhelda, tuginege tema reaktsioonidele ja kehakeelele.
+
+### Testimissessiooni struktuur
+- Lühikesed ja paindlikud sessioonid. Pikk ja intensiivne testimine väsitab last kiiresti.
+- Selged algus- ja lõpupunktid. Looge ülheselt mõistetavad signaalid, mis annavad lapsele teada, millal tegevus algab ja lõpeb.
+- Valikuvabadus. Lase lapsel otsustada, milliseid funktsioone ta soovib proovida.
+
+### Järelanalüüs ja parendused
+- Dokumenteerige loomulikke reaktsioone, mitte ainult sõnalist tagasisidet.
+- Kaasa hooldajad tulemuste tõlgendamisse, et vältida väärtõlgendusi.
+- Korrake vajadusel testimist, et kinnitada muudatuste sobivust.
+
+### Kokkuvõte
+Testimine on oluline mitte ainult veatu rakenduse saavutamiseks, vaid eelkõige selleks, et mõista, kuidas laps tegelikult digikeskkonnas toimib. Vaatlus, lihtne tagasiside ja täiskasvanute tõlgendus moodustavad koos toimiva meetodi, mis aitab arendada rakendusi, mis on tõeliselt ligipääsetavad ja sobivad erinevate erivajadustega lastele.
 
 ## Artiklid
 Siit leiad erivajadustega lastele disainimisele keskenduvate teadusartiklite põhjal koostatud praktilised kokkuvõtted, mis on suunatud arendajatele ja disaineritele, kes loovad digitaalseid rakendusi erivajadustega lastele.
