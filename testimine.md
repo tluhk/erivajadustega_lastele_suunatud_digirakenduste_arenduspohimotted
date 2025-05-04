@@ -17,26 +17,26 @@ Testimine on oluline osa rakenduse arendustsüklist, kuid erivajadustega laste p
 ---
 
 ## Testimise ettevalmistamine
-- **Selgitage lapse individuaalsed vajadused** enne testimist, suheldes vanemate või õpetajatega (Frauenberger et al., 2011; Hijab et al., 2023).
-- **Valmistage ette turvaline ja stressivaba keskkond**, kus laps saab testimises osaleda omas tempos (Hijab et al., 2023).
-- **Vältige kõrge survega olukordi.** Testimine peab toetama lapse loomuomast tegutsemist ilma liigsete juhisteta (Frauenberger et al., 2011).
+- **Selgitage lapse individuaalsed vajadused** enne testimist, suheldes vanemate või õpetajatega.
+- **Valmistage ette turvaline ja stressivaba keskkond**, kus laps saab testimises osaleda omas tempos.
+- **Vältige kõrge survega olukordi.** Testimine peab toetama lapse loomuomast tegutsemist ilma liigsete juhisteta.
 
 ## Testimise võtted
 Efektiivne testimine peaks sisaldama mitmekesiseid ja paindlikke lähenemisi:
-- **Vaatlus** – jälgige, kuidas laps loomulikult suhtleb rakendusega (Frauenberger et al., 2011).
-- **Mängu kaudu testimine** – laske lapsel uurida prototüüipe ja funktsioone mänguliselt, mitte struktureeritud ülesannetega (Hijab et al., 2023).
-- **Hääletu vaatlus ja kaudne tagasiside** – kui laps ei soovi verbaalselt suhelda, tuginege tema reaktsioonidele ja kehakeelele (Ferreira & Castro, 2024).
+- **Vaatlus** – jälgige, kuidas laps loomulikult suhtleb rakendusega.
+- **Mängu kaudu testimine** – laske lapsel uurida prototüüipe ja funktsioone mänguliselt, mitte struktureeritud ülesannetega.
+- **Hääletu vaatlus ja kaudne tagasiside** – kui laps ei soovi verbaalselt suhelda, tuginege tema reaktsioonidele ja kehakeelele.
 
 ## Testimissessiooni struktuur
 
-- **Lühikesed ja paindlikud sessioonid.** Pikk ja intensiivne testimine väsitab last kiiresti (Hijab et al., 2023).
-- **Selged algus- ja lõpupunktid.** Looge ülheselt mõistetavad signaalid, mis annavad lapsele teada, millal tegevus algab ja lõpeb (Frauenberger et al., 2011).
-- **Valikuvabadus.** Lase lapsel otsustada, milliseid funktsioone ta soovib proovida (Hijab et al., 2023).
+- **Lühikesed ja paindlikud sessioonid.** Pikk ja intensiivne testimine väsitab last kiiresti.
+- **Selged algus- ja lõpupunktid.** Looge ülheselt mõistetavad signaalid, mis annavad lapsele teada, millal tegevus algab ja lõpeb.
+- **Valikuvabadus.** Lase lapsel otsustada, milliseid funktsioone ta soovib proovida.
 
 ## Järelanalüüs ja parendused
 - **Dokumenteerige loomulikke reaktsioone**, mitte ainult sõnalist tagasisidet.
-- **Kaasa hooldajad tulemuste tõlgendamisse**, et vältida väärtõlgendusi (Hijab et al., 2023).
-- **Korrake vajadusel testimist**, et kinnitada muudatuste sobivust (Ferreira & Castro, 2024).
+- **Kaasa hooldajad tulemuste tõlgendamisse**, et vältida väärtõlgendusi.
+- **Korrake vajadusel testimist**, et kinnitada muudatuste sobivust.
 
 ## Kokkuvõte
 Testimine on oluline mitte ainult veatu rakenduse saavutamiseks, vaid eelkõige selleks, et mõista, kuidas laps tegelikult digikeskkonnas toimib. Vaatlus, lihtne tagasiside ja täiskasvanute tõlgendus moodustavad koos toimiva meetodi, mis aitab arendada rakendusi, mis on tõeliselt ligipääsetavad ja sobivad erinevate erivajadustega lastele.
