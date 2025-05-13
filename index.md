@@ -57,12 +57,5 @@ Kui soovid täiendada sisu või lisada uusi tööriistu ja artikleid, vaata juhi
 
 ---
 
-## Ligipääsetavuse põhimõtted
-
-- Leht kasutab selget ja lihtsat keelt.
-- Kõik lingid on tähistatud ja kirjeldavad sihtkohta.
-- Failistruktuur ja pealkirjad on loogilised ning toetavad navigeerimist ka ekraanilugejatega.
-
----
 
 _Täname panustamast ja kasutamast! Iga täiendus aitab muuta digimaailma kaasavamaks._
