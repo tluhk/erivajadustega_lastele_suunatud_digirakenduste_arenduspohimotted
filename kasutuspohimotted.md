@@ -5,7 +5,7 @@ nav_order: 3
 
 # Disainipõhimõtted digirakenduste loomiseks erivajadustega lastele
 
-Käesolev leht koondab põhjalikud ja teaduspõhised soovitused, mis on koostatud lõputöö teoreetilise ja empiirilise osa põhjal. Need põhimõtted aitavad arendajatel ja disaineritel luua rakendusi, mis on kaasavad, ligipääsetavad, sensitiivsed ning toetavad lapse arengut, osalust ja enesetunnet.
+Käesolev leht koondab  teaduspõhised soovitused, mis on koostatud lõputöö teoreetilise ja empiirilise osa põhjal. Need põhimõtted aitavad arendajatel ja disaineritel luua rakendusi, mis on kaasavad, ligipääsetavad ning toetavad lapse arengut, osalust ja enesetunnet.
 
 ---
 
